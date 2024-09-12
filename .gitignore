@@ -1,0 +1,12 @@
+**/node_modules/*
+cache/*
+artifacts/
+
+.env
+.vscode
+.idea
+
+**/.DS_Store
+**/typechain/
+
+**/.yarn/
