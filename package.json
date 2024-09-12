@@ -1,0 +1,22 @@
+{
+  "name": "realperp_token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "ethers": "^6.9.1",
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0",
+    "ts-node": "^10.9.2"
+  }
+}
